@@ -1,0 +1,238 @@
+1.Afganistan 
+2.Almanya 
+3.Amerika Birleşik Devletleri 
+4.Amerikan Samoa 
+5.Andorra 
+6.Angola 
+7.Anguilla, İngiltere 
+8.Antigua ve Barbuda 
+9.Arjantin 
+10.Arnavutluk 
+11.Aruba, Hollanda 
+12.Avustralya 
+13.Avusturya 
+14.Azerbaycan 
+15.Bahama Adaları 
+16.Bahreyn 
+17.Bangladeş 
+18.Barbados 
+19.Belçika 
+20.Belize 
+21.Benin 
+22.Bermuda, İngiltere 
+23.Beyaz Rusya 
+24.Bhutan 
+25.Birleşik Arap Emirlikleri 
+26.Birmanya (Myanmar) 
+27.Bolivya 
+28.Bosna Hersek 
+29.Botswana 
+30.Brezilya 
+31.Brunei 
+32.Bulgaristan 
+33.Burkina Faso 
+34.Burundi 
+35.Cape Verde 
+36.Cayman Adaları, İngiltere 
+37.Cezayir 
+38.Christmas Adası , Avusturalya 
+39.Cibuti 
+40.Çad 
+41.Çek Cumhuriyeti 
+42.Çin 
+43.Danimarka 
+44.Doğu Timor 
+45.Dominik Cumhuriyeti 
+46.Dominika 
+47.Ekvator 
+48.Ekvator Ginesi 
+49.El Salvador 
+50.Endonezya 
+51.Eritre 
+52.Ermenistan 
+53.Estonya 
+54.Etiyopya 
+55Fas 
+56.Fiji 
+57.Fildişi Sahili 
+58.Filipinler 
+59.Filistin 
+60.Finlandiya 
+61.Folkland Adaları, İngiltere 
+62.Fransa 
+63.Fransız Guyanası 
+64.Fransız Güney Eyaletleri (Kerguelen Adaları) 
+65.Fransız Polinezyası 
+66.Gabon 
+67.Galler 
+68.Gambiya 
+69.Gana 
+70.Gaza Strip 
+71.Gibraltar, İngiltere 
+72.Gine 
+73.Gine-Bissau 
+74.Grenada 
+75.Grönland 
+76.Guadalup, Fransa 
+77.Guam, Amerika 
+78.Guatemala 
+79.Guyana 
+80.Güney Afrika 
+81.Güney Georgia ve Güney Sandviç Adaları, İngiltere 
+82.Güney Kıbrıs Rum Yönetimi 
+83.Güney Kore 
+84.Gürcistan
+85.Haiti 
+86.Havai Adaları 
+87.Hırvatistan 
+88.Hindistan 
+89.Hollanda 
+90.Hollanda Antilleri 
+91Honduras 
+92.Irak 
+93.İngiltere 
+94.İran 
+95.İrlanda 
+96.İskoçya 
+97.İspanya 
+98.İsrail 
+99.İsveç 
+100.İsviçre 
+101.İtalya 
+102.İzlanda 
+103.Jamaika 
+104.Japonya 
+105.Johnston Atoll, Amerika 
+106.K.K.T.C. 
+107.Kamboçya 
+108.Kamerun 
+109.Kanada 
+110.Kanarya Adaları 
+111.Karadağ 
+112.Katar 
+113.Kazakistan 
+114.Kenya 
+115.Kırgızistan 
+116.Kiribati 
+117.Kolombiya 
+118.Komorlar 
+119.Kongo 
+120.Kongo Demokratik Cumhuriyeti 
+121.Kosova 
+122.Kosta Rika 
+123.Kuveyt 
+124.Kuzey İrlanda 
+125.Kuzey Kore 
+126.Kuzey Maryana Adaları 
+127.Küba 
+128.Laos 
+129.Lesotho 
+130.Letonya 
+131.Liberya 
+132.Libya 
+133.Liechtenstein 
+134.Litvanya 
+135.Lübnan 
+136.Lüksemburg 
+137.Macaristan 
+138.Madagaskar 
+139.Makau (Makao) 
+140.Makedonya 
+141.Malavi 
+142.Maldiv Adaları 
+143.Malezya 
+144.Mali 
+145.Malta 
+146.Marşal Adaları 
+147.Martinik, Fransa 
+148.Mauritius 
+149.Mayotte, Fransa 
+150.Meksika 
+151.Mısır 
+152.Midway Adaları, Amerika 
+153.Mikronezya 
+154.Moğolistan 
+155.Moldavya 
+156.Monako 
+157.Montserrat 
+158.Moritanya 
+159.Mozambik 
+160.Namibia 
+161.Nauru 
+162.Nepal 
+163.Nijer 
+164.Nijerya 
+165.Nikaragua 
+166.Niue, Yeni Zelanda 
+167.Norveç
+168.Orta Afrika Cumhuriyeti 
+169.Özbekistan 
+170.Pakistan 
+171.Palau Adaları 
+172.Palmyra Atoll, Amerika 
+173.Panama 
+174.Papua Yeni Gine 
+175.Paraguay 
+176.Peru 
+177.Polonya 
+178.Portekiz 
+179.Porto Riko, Amerika 
+180.Reunion, Fransa 
+181.Romanya 
+182.Ruanda 
+183.Rusya Federasyonu 
+184.Saint Helena, İngiltere 
+185.Saint Martin, Fransa 
+186.Saint Pierre ve Miquelon, Fransa 
+187.Samoa 
+188.San Marino 
+189.Santa Kitts ve Nevis 
+190.Santa Lucia 
+191.Santa Vincent ve Grenadinler 
+192.Sao Tome ve Principe 
+193.Senegal 
+194.Seyşeller 
+195.Sırbistan 
+196.Sierra Leone 
+197.Singapur 
+198.Slovakya 
+199.Slovenya 
+200.Solomon Adaları 
+201.Somali 
+202.Sri Lanka 
+203.Sudan 
+204.Surinam 
+205.Suriye 
+206.Suudi Arabistan
+207.Svaziland 
+208.Şili 
+209.Tacikistan 
+210.Tanzanya 
+211.Tayland 
+212.Tayvan 
+213.Togo 
+214.Tonga 
+215.Trinidad ve Tobago 
+216.Tunus 
+217.Turks ve Caicos Adaları, İngiltere 
+218.Tuvalu 
+219.Türkiye 
+220.Türkmenistan 
+221.Uganda 
+222.Ukrayna 
+223.Umman 
+224.Uruguay 
+225.Ürdün 
+226.Vallis ve Futuna, Fransa 
+227.Vanuatu 
+228.Venezuela 
+229.Vietnam 
+230.Virgin Adaları, Amerika 
+231.Virgin Adaları, İngiltere 
+232.Wake Adaları, Amerika 
+233.Yemen 
+234.Yeni Kaledonya, Fransa 
+235.Yeni Zelanda 
+236.Yunanistan 
+237.Zambiya 
+238.Zimbabve
